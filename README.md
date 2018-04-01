@@ -7,4 +7,4 @@ Also included is a mirrored version of the same binary, where each of the charac
 The program used to generate the binary font files, `bfe`, is purpose specific for this and you can find it in this repo:
 https://github.com/julianbachiller/bitmapped-font-editor
 
-But the generated files are in the `/fonts` directory so there's no need to actually run the scripts. :)
+But the generated files are in the `/font` directory so there's no need to actually run the scripts. :)
